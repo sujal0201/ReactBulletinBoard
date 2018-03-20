@@ -7,3 +7,9 @@ change directory
 
 `cd ReactBulletinBoard`
 
+Run
+`npm install`
+
+Then start the server using command
+
+`npm start`
